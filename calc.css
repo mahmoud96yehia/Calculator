@@ -1,0 +1,34 @@
+﻿body {
+/*    display: flex;
+*/
+margin : 0 auto;
+
+}
+h1{
+    text-align :center;
+margin-top : 5px;
+}
+#ashape {
+    border: 1px solid black;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+form {
+    text-align: center;
+    margin: 0 auto;
+}
+form input{
+    width : 150px;
+    height: 50px;
+    font-size: 25px ;
+}
+#answer{
+    width: 500px;
+    height:50px;
+}
+/*#calc{
+    background-color: mediumslateblue;
+
+}*/
